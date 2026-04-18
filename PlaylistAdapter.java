@@ -1,0 +1,1 @@
+// PlaylistAdapter.java content

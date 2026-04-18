@@ -1,0 +1,1 @@
+// Artist.java model content
